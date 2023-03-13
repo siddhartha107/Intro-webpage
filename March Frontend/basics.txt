@@ -1,0 +1,50 @@
+File =>
+pdf
+image files(jpeg, jpg, png)
+docx, doc
+video files(mp4,3gp, ...)
+
+java code => java files =>some_file.java
+c++ code => c++ file
+
+
+
+HTML(markup language which means uses a collection of tags)
+ executed output of a HTML file can be called as Webpage
+ file_name.html => html code
+ 
+CSS(Styling language using which we can style the webpage)
+  file_name.css => css code
+JavaScript
+
+
+
+VS CODE Shortcuts:
+saving a file: ctrl + s
+copy: ctrl + c
+paste: ctrl + v
+undo: ctrl + z
+redo: ctrl + y
+select  a line: ctrl + l
+shift + placeholder1 + placeholder2 => will select the entire content between the placeholder
+to select the entire file: ctrl + a
+multi cursor:{
+    first way: long press alt + place your cursor,
+    select multi duplicates: ctrl + d
+}
+search something: ctrl + f
+
+
+
+Absolute path(exact path)
+ we specify the address of the file starting from root folder(directory)
+ C:\Users\pc\March Frontend\basics.txt
+
+
+Relative path:
+ we can specify a file address relative to another file
+
+ ./ => current folder
+ ../ => parent folder 
+
+
